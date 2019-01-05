@@ -1,0 +1,7 @@
+theme = "anybodyhome"
+languageCode = "en-us"
+title = "My New Hugo Site"
+baseurl = "https://satzz.github.io/hugotest"
+canonifyurls = true
+
+publishdir = "public"
